@@ -134,4 +134,4 @@ For disease prediction task:
 
 ## License
 
-[MIT License](LICENSE)
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE)
